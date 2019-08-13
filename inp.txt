@@ -1,0 +1,20 @@
+cust-A
+May-4 120
+May-7 75
+May-12 20
+May-18 225
+May-24 150
+May-29 200
+June-3 90
+June-10 88
+June-12 11
+June-16 47
+June-24 180
+June-28 160
+July-1 80
+July-5 120
+July-10 188
+July-14 17
+July-20 52
+July-27 130
+July-30 135
